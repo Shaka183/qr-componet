@@ -1,6 +1,6 @@
 #  QR code component
 
-####  QR code component é um desafio do Frontend Mentor feito com HTML e CSS. Esse projeto, apresar de ser uma landing page, traz elementos bem interessantes nessas linguagens. Obrigado por chegar até aqui. Confira o código.
+####  QR code component é um desafio do Frontend Mentor feito com HTML e CSS. Esse projeto, apresar de ser uma landing page, traz elementos bem interessantes nessas linguagens. Obrigado por chegar até aqui.
 
 ## Índice
 
